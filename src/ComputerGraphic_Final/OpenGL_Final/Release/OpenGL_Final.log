@@ -1,0 +1,19 @@
+﻿生成启动时间为 2015/1/28 20:18:30。
+     1>项目“C:\Users\tsinghuabci02\Desktop\计算机实时动画Final\计算机实时动画Final\src\ComputerGraphic_Final\OpenGL_Final\OpenGL_Final.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\OpenGL_Final.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         OpenGL_Final.vcxproj -> C:\Users\tsinghuabci02\Desktop\计算机实时动画Final\计算机实时动画Final\src\ComputerGraphic_Final\Release\OpenGL_Final.exe
+       Manifest:
+         所有输出均为最新。
+       FinalizeBuildStatus:
+         正在删除文件“Release\OpenGL_Final.unsuccessfulbuild”。
+         正在对“Release\OpenGL_Final.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\tsinghuabci02\Desktop\计算机实时动画Final\计算机实时动画Final\src\ComputerGraphic_Final\OpenGL_Final\OpenGL_Final.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.09
